@@ -3,4 +3,4 @@ I have decided to write.
 
 Remembering the stuff i need is cool.
 
-git clone
+like git clone
